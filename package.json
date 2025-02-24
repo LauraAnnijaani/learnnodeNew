@@ -16,8 +16,5 @@
     "url": "https://github.com/LauraAnnijaani/learnnodeNew/issues"
   },
   "homepage": "https://github.com/LauraAnnijaani/learnnodeNew#readme",
-  "description": "",
-  "dependencies": {
-    "boxen": "^8.0.1"
-  }
+  "description": ""
 }
